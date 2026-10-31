@@ -1,0 +1,11 @@
+D:\baitaplaptrinhnet\Lab09_DataReaderSearch\Lab09_DataReaderSearch\bin\Debug\Lab09_DataReaderSearch.exe.config
+D:\baitaplaptrinhnet\Lab09_DataReaderSearch\Lab09_DataReaderSearch\bin\Debug\Lab09_DataReaderSearch.exe
+D:\baitaplaptrinhnet\Lab09_DataReaderSearch\Lab09_DataReaderSearch\bin\Debug\Lab09_DataReaderSearch.pdb
+D:\baitaplaptrinhnet\Lab09_DataReaderSearch\Lab09_DataReaderSearch\obj\Debug\Lab09_DataReaderSearch.csproj.AssemblyReference.cache
+D:\baitaplaptrinhnet\Lab09_DataReaderSearch\Lab09_DataReaderSearch\obj\Debug\Lab09_DataReaderSearch.Properties.Resources.resources
+D:\baitaplaptrinhnet\Lab09_DataReaderSearch\Lab09_DataReaderSearch\obj\Debug\Lab09_DataReaderSearch.csproj.GenerateResource.cache
+D:\baitaplaptrinhnet\Lab09_DataReaderSearch\Lab09_DataReaderSearch\obj\Debug\Lab09_DataReaderSearch.csproj.CoreCompileInputs.cache
+D:\baitaplaptrinhnet\Lab09_DataReaderSearch\Lab09_DataReaderSearch\obj\Debug\Lab09_DataReaderSearch.exe
+D:\baitaplaptrinhnet\Lab09_DataReaderSearch\Lab09_DataReaderSearch\obj\Debug\Lab09_DataReaderSearch.pdb
+D:\baitaplaptrinhnet\Lab09_DataReaderSearch\Lab09_DataReaderSearch\obj\Debug\Lab09_DataReaderSearch.GUI.frmLab9.resources
+D:\baitaplaptrinhnet\Lab09_DataReaderSearch\Lab09_DataReaderSearch\obj\Debug\Lab09_DataReaderSearch.Form1.resources
